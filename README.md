@@ -1,5 +1,7 @@
 # Home Price Prediction Using Regression and Decision Tree Models
 
+![Home Price Prediction](homepricepredimage.png)
+
 ## Overview
 This project aims to predict housing prices based on various features such as area, number of bathrooms, parking spaces, etc., using different machine learning techniques. We explore and compare three models: Multiple Linear Regression, Decision Trees, and Random Forest, to determine which model provides the most accurate predictions.
 
