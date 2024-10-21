@@ -61,9 +61,6 @@ Data exploration involves:
 - Furnishing status and parking availability also have a notable impact on prices.
 - While the linear regression model provided the best overall fit, the random forest model can still be improved by hyperparameter tuning or additional data.
 
-### Image Visualization
-![Decision Tree Visualization](heartdisease.png)
-
 ## Libraries Used
 - `pandas`, `numpy`: For data handling and preprocessing.
 - `matplotlib`, `seaborn`: For data visualization.
